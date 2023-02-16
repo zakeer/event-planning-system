@@ -1,0 +1,23 @@
+[
+   {
+    "EventDate": "26-02-2023",
+    "EventName": "Marriage Function",
+    "EventLocation": "Hitech Hall",
+    "Budget": 750000,
+    "GuestList": 100
+   },
+   {
+    "EventDate": "16-02-2023",
+    "EventName": "Farewell Party",
+    "EventLocation": "Jublee Hills",
+    "Budget": 600000,
+    "GuestList": 200
+   },
+   {
+    "EventDate": "01-05-2023",
+    "EventName": "MayDay",
+    "EventLocation": "Office Area, Guntur",
+    "Budget": 350000,
+    "GuestList": 75
+   } 
+]
